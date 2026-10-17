@@ -1,0 +1,21 @@
+# numpy==2.5.3
+# pandas==3.0.6
+# polars==1.44.2
+# seaborn==0.13.2
+# kagglehub==1.0.2
+# jupyterlab==4.6.4
+# streamlit==1.64.0
+# matplotlib==3.11.2
+# functions-framework==3.10.2
+
+
+numpy==2.5.3
+pandas==3.0.6
+polars==1.44.2
+xgboost==3.4.1
+seaborn==0.13.2
+watermark==2.6.0
+ucimlrepo==0.0.7
+jupyterlab==4.6.4
+matplotlib==3.11.2
+scikit-learn==1.9.1
