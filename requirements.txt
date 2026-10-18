@@ -15,7 +15,7 @@ polars==1.44.2
 xgboost==3.4.1
 seaborn==0.13.2
 watermark==2.6.0
-ucimlrepo==0.0.7
 jupyterlab==4.6.4
+ipywidgets==8.1.9
 matplotlib==3.11.2
 scikit-learn==1.9.1

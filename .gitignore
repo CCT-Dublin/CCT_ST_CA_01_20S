@@ -203,6 +203,5 @@ tests-result.xml
 *tests-result.xml
 
 
-# llm
-.llm_cache/
-chroma_db_persist/
+*.DS_Store
+data.csv
