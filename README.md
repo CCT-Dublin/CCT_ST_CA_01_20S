@@ -44,4 +44,4 @@ Dataset labels are not independent proof of criminal activity. The analysis is i
 
 | Versão Do Document |        Editor      |    Data    |  Percentage Complete  |
 |        :---:       |        :---:       |    :---:   |         :---:         |
-|        1.0.0       | Matheus S. Silva   | 2026-10-24 |          95%          |
+|        1.0.5       | Matheus S. Silva   | 2026-10-24 |          95%          |
